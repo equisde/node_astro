@@ -1,0 +1,13 @@
+{
+    "name": "node-astro",
+    "version": "1.0.0",
+    "description": "Astro NodeJS Client",
+    "keywords": ["astro"],
+    "repository": "git://github.com/equisde/node-astro.git",
+    "author": "equisde(Parallax)",
+    "main": "lib/astro.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
